@@ -2,7 +2,7 @@ swagger: "2.0"
 info:
   description: "API de conversão de temperatura"
   version: "1.0.0"
-  title: "Conversão de temperatura"
+  title: "Conversão de temperatura - Fabio Yates"
   contact:
     email: "fabricio@veronez.dev"
 paths:
